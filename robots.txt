@@ -1,0 +1,10 @@
+User-agent: googlebot
+User-agent: google
+User-agent: bingbot
+User-agent: bing
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /
+
+Sitemap: http://cliveboulton.com/sitemap.xml
