@@ -5,7 +5,7 @@
         var l = Math.min(1, (j + 1) / (screen.width / f)), m = Math.min(1, (h + 1) / (screen.height / e)), n = b(g[0], g[2], m), o = b(g[1], g[3], m), p = b(n, o, l);
         p[0] = Math.round(p[0]), p[1] = Math.round(p[1]), p[2] = Math.round(p[2]);
         if (h != 1) {
-            var q = a(p[0], p[1], p[2]), r = b(p, [0, 0, 0], .2), s = a(r[0], r[1], r[2]), t = $("<img src=images/apple-icon-180x180.png>").css({ top: i + "px", left: k + "px" });
+            var q = a(p[0], p[1], p[2]), r = b(p, [0, 0, 0], .2), s = a(r[0], r[1], r[2]), t = $("<img src=images/OriginalGlazed_Small.png>").css({ top: i + "px", left: k + "px" });
             $("#background").append(t);
         }
     }
