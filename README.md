@@ -1,3 +1,3 @@
 # website
 
-Provides a simple website design pattern hosted by Firebase part of GCP. Plan to add how to step by step instructions at a later date. Feel free to fork, customize and deploy. 
+Provides a simple website based on Holder.js demo hosted on Firebase part of GCP. Page load latency is about half that of Google homepage. Feel free to fork, customize and deploy. 
