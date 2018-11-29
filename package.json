@@ -1,0 +1,22 @@
+{
+  "name": "shiny-octo-telegram",
+  "version": "1.0.0",
+  "description": "firebase personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cliveb/shiny-octo-telegram.git"
+  },
+  "keywords": [
+    "cliveb"
+  ],
+  "author": "cliveb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cliveb/shiny-octo-telegram/issues"
+  },
+  "homepage": "https://github.com/cliveb/shiny-octo-telegram#readme"
+}
