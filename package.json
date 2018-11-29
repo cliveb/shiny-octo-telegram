@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/cliveb/shiny-octo-telegram/issues"
   },
-  "homepage": "https://github.com/cliveb/shiny-octo-telegram#readme"
+  "homepage": "https://github.com/cliveb/shiny-octo-telegram#readme",
+  "dependencies": {
+    "firebase-tools": "^6.1.1"
+  }
 }
