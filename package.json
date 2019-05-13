@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/cliveb/shiny-octo-telegram#readme",
   "dependencies": {
-    "firebase-tools": "^6.1.1",
+    "firebase-tools": "^6.9.2",
     "i": "^0.3.6"
   }
 }
