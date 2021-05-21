@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "cliveboulton-0000001",
     "public": "public",
     "ignore": [
       "firebase.json",
